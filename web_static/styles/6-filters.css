@@ -63,6 +63,7 @@
     padding: 20px;
     margin: 0;
     position: absolute;
+    z-index: 200;
 }
 
 .filters div:hover ul.popover {
